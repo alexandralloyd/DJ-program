@@ -18,26 +18,9 @@
 
 ## About This Repo
 
-This repo is for the Digital Journeys business team to plan, track, and manage forms related projects. Project planning of ongoing forms requests, both digital and paper, is recorded here. This repo also contains back-ups of individual forms built within the PSA Digital Journey's version of formsflow.ai. 
-
-### Built With
-
-This project is built on top of [formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai) which combines Redash, form.io, Camunda, and a custom built Web app to provide a form and workflow management system. See the [formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai) for a deeper dive into the different components of the system.
-
-* Camunda
-* form.io
-* ReDash
-* Keycloak
-* Openshift
-* Postgresql
-* MongoDB
-* Java
-* Python (flask)
-* React
+This repo is for the Digital Journeys business team to plan, track, and manage forms related projects. Project planning of ongoing forms requests, both digital and paper, are recorded here. This repo also contains back-ups of individual forms built within the PSA Digital Journey's version of formsflow.ai. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
