@@ -18,7 +18,7 @@
 
 ## About This Repo
 
-This repo contains issues related to the program planning of the Digital Journeys project. 
+This repo is for the Digital Journeys business team to plan, track, and manage forms related projects. Project planning of ongoing forms requests, both digital and paper, is recorded here. This repo also contains back-ups of individual forms built within the PSA Digital Journey's version of formsflow.ai. 
 
 ### Built With
 
