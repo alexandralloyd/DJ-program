@@ -2,14 +2,7 @@
 
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/bcgov/digital-journeys">
-    <img src="forms-flow-web/public/bcmark.png" alt="Logo" width="150" height="150">
-  </a>
-
-  <h1 align="center">PSA - Digital Journeys</h1>
+  <h1 align="center">PSA - Digital Journeys Program Board</h1>
 
   <p align="center">
     Form Builder and Workflow manager built on top of <a href="https://github.com/AOT-Technologies/forms-flow-ai">formsflow.ai</a>.
