@@ -5,28 +5,20 @@
   <h1 align="center">PSA - Digital Journeys Program Board</h1>
 
   <p align="center">
-    Form Builder and Workflow manager built on top of <a href="https://github.com/AOT-Technologies/forms-flow-ai">formsflow.ai</a>.
+    Project management board for Digital Journeys business team. Digital Journeys is a form builder and workflow manager built on top of <a href="https://github.com/AOT-Technologies/forms-flow-ai">formsflow.ai</a>.
     <br />
     <a href="https://digital-journeys-dev.apps.silver.devops.gov.bc.ca"><strong>Dev Env »</strong></a>
-    <a href="https://bcgov.github.io/digital-journeys"><strong>Docs »</strong></a>
+    <a href="https://bcgov.github.io/digital-journeys"><strong>Dev Docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/bcgov/digital-journeys/issues">Backlog</a>
-    ·
-    <a href="https://github.com/bcgov/digital-journeys/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/bcgov/digital-journeys/issues">Request Feature</a>
+    <a href="https://app.zenhub.com/workspaces/forms-program-area-62b6324c27db39001ee6729f/board?repos=497100695">ZenHub Board</a>
   </p>
 </div>
 
 
-## About The Project
+## About This Repo
 
-This repo contains a BC Gov branded version of [formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai) that will support public facing and internal Digital Journeys used by PSA and their employees.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
+This repo contains issues related to the program planning of the Digital Journeys project. 
 
 ### Built With
 
