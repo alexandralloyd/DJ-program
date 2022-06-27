@@ -23,33 +23,6 @@ This repo is for the Digital Journeys business team to plan, track, and manage f
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* Docker / docker-compose
-
-### Installation
-
-In order to get started with local development, please follow the steps below
-
-1. Create a `.env` file in the root of the project. Please contact a project dev to get a working one.
-2. Run the app
-   ```sh
-    make run-local
-   ```
-   be patient, this might take a while the first time :)
-3. Once the project is up and running, you can access the web app at localhost:3000.
-4. Update the User role env variables in the `.env` file according to the [Formsflow documentation](https://github.com/AOT-Technologies/forms-flow-ai/tree/master/forms-flow-forms#user-content-formsflow-forms-userrole-api) seeing as these are unique per installation. You can use either the `sh` script provided there or the postman collection. **Note:** If you're using the `resourceId_*.sh` script, you need to run it from within the docker container.
-5. Restart the application, and you should be good to go!
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ## Contributing
 
