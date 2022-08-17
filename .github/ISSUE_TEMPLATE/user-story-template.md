@@ -1,6 +1,6 @@
 ---
-name: New User Story
-about: Use this template to write up all new user stories
+name: User story Template
+about: Use this template to write up new user stories
 title: "[NAME OF FORM]: Issue description"
 labels: ''
 assignees: ''
